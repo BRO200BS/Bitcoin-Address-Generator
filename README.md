@@ -6,5 +6,5 @@ Bitcoin All Type Address Generator ! Generates Bitcoin addresses of different ty
 
 BUY ME SOME COFFEE ☕
 MY P2SH ADDRESS: 3MkzuRaZit1brdXQkAk5Np2YguDQQwoGBu
-I didn't expect anyone to send some thing 😋
+I didn't expect someone would send something 😋
 
