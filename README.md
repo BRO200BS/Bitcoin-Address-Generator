@@ -1,1 +1,2 @@
-will be updated?
+gen.py generated incorrect bech32 addresses!
+
