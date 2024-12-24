@@ -1,0 +1,6 @@
+pip install pycryptodome
+pip install base58
+pip install ecdsa
+pip install mnemonic
+pip install qrcode
+pip install cryptography
